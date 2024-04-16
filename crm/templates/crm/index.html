@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ title }}{% if q %} "{{ q }}"{% endif %}
+{% endblock %}
+
+{% block content %}
+
+    <h2>Info from <a href="https://restcountries.com/" target="_blank">REST Countries</a> (information is stored
+        locally)</h2>
+    {% if is_paginated %}
+        {% include 'pagination.html' %}
+    {% endif %}
+
+    <p class="text-end"><a href="{% url 'index' %}">Show all</a></p>
+
+    <form action="{% url 'search' %}" class="row" method="post">
+        {% csrf_token %}
+        <div class="col-6">
+            <input type="text" name="q" value="{% if q %}{{ q }}{% endif %}" class="form-control"
+                   placeholder="Enter the name of the country you are looking for">
+        </div>
+        <div class="col-auto">
+            <input type="submit" name="search" value="Search Country" class="btn btn-primary from-control">
+        </div>
+        <div class="col-auto">
+            <input type="submit" name="random" value="Three random countries" class="btn btn-success from-control
+            text-end">
+        </div>
+    </form>
+
+
+    <div class="row mt-2">
+        <div class="accordion" id="accordionExample">
+            {% for country in object_list %}
+                <div class="accordion-item mt-1">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapse_{{ country.id }}" aria-expanded="true"
+                                aria-controls="collapse_{{ country.id }}">
+                            {{ country.name }}
+                        </button>
+                    </h2>
+                    <div id="collapse_{{ country.id }}" class="accordion-collapse collapse {% if forloop.counter0 == 0 %}show{% endif %}  bg-secondary"
+                         data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-bordered">
+                                <thead class="text-center">
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Value</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>Country</td>
+                                    <td>
+                                        <a href="https://google.com/search?q={{ country.name }}"
+                                           target="_blank">{{ country.name }}</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Region</td>
+                                    <td>{{ country.region }}</td>
+                                </tr>
+                                <tr>
+                                    <td>Capital</td>
+                                    <td>
+                                        <a href="https://google.com/search?q={{ country.capital }}"
+                                           target="_blank">{{ country.capital }}</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Timezone</td>
+                                    <td>{{ country.timezone }}</td>
+                                </tr>
+                                <tr>
+                                    <td>Flag</td>
+                                    <td>
+                                        <a href="{{ country.flag }}" target="_blank">
+                                            <img src="{{ country.flag }}" alt="" width="100"
+                                                 class="border border-secondary-subtle">
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Google maps</td>
+                                    <td><a href="{{ country.googlemap }}" target="_blank">Google Map</a></td>
+                                </tr>
+                                <tr>
+                                    <td>OpenStreetMap</td>
+                                    <td><a href="{{ country.openstreet }}" target="_blank">OpenStreetMap</a></td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

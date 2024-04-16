@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block title %}
+	500 Error
+{% endblock %}
+
+{% block content %}
+	<h3 class="text-danger text-center">Server error</h3>
+    <p class="text-center"><a href="{% url 'index' %}">Homepage</a></p>
+{% endblock %}

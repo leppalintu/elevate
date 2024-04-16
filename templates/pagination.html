@@ -1,0 +1,39 @@
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        {% if page_obj.has_previous %}
+            <li class="page-item me-1">
+                <a class="page-link" href="?page=1">&laquo;</a>
+            </li>
+            <li>
+                <a class="page-link" href="?page={{ page_obj.previous_page_number }}">&lsaquo;</a>
+            </li>
+        {% else %}
+            <li class="page-item me-1">
+                <a class="page-link disabled" href="#">&laquo;</a>
+            </li>
+            <li>
+                <a class="page-link disabled" href="#">&lsaquo;</a>
+            </li>
+        {% endif %}
+
+        <li class="page-link text-dark mx-1">
+            Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}
+        </li>
+
+        {% if page_obj.has_next %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ page_obj.next_page_number }}">&rsaquo;</a>
+            </li>
+            <li class="page-item ms-1">
+                <a class="page-link" href="?page={{ page_obj.paginator.num_pages }}">&raquo;</a>
+            </li>
+        {% else %}
+            <li class="page-item">
+                <a class="page-link disabled" href="#">&rsaquo;</a>
+            </li>
+            <li class="page-item ms-1">
+                <a class="page-link disabled" href="#">&raquo;</a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>

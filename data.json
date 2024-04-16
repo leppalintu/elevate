@@ -1,0 +1,2252 @@
+[
+    {
+        "name": "Barbados",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bb.png",
+        "capital": "Bridgetown",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/2m36v8STvbGAWd9c7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/547511"
+    },
+    {
+        "name": "R\u00e9union",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/re.png",
+        "capital": "Saint-Denis",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/wWpBrXsp8UHVbah29",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1785276"
+    },
+    {
+        "name": "Suriname",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/sr.png",
+        "capital": "Paramaribo",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/iy7TuQLSi4qgoBoG7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287082"
+    },
+    {
+        "name": "Namibia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/na.png",
+        "capital": "Windhoek",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/oR1i8BFEYX3EY83WA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195266"
+    },
+    {
+        "name": "Guinea",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/gn.png",
+        "capital": "Conakry",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/8J5oM5sA4Ayr1ZYGA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192778"
+    },
+    {
+        "name": "Vanuatu",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/vu.png",
+        "capital": "Port Vila",
+        "timezone": "UTC+11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/hwAjehcT7VfvP5zJ8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2177246"
+    },
+    {
+        "name": "Samoa",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/ws.png",
+        "capital": "Apia",
+        "timezone": "UTC+13:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CFC9fEFP9cfkYUBF9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1872673"
+    },
+    {
+        "name": "France",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/fr.png",
+        "capital": "Paris",
+        "timezone": "UTC-10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/g7QxxSFsWyTPKuzd7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1403916"
+    },
+    {
+        "name": "Andorra",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ad.png",
+        "capital": "Andorra la Vella",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JqAnacWE2qEznKgw7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/9407"
+    },
+    {
+        "name": "Azerbaijan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/az.png",
+        "capital": "Baku",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/az3Zz7ar2aoB9AUc6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/364110"
+    },
+    {
+        "name": "Maldives",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/mv.png",
+        "capital": "Mal\u00e9",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/MNAWGq9vEdbZ9vUV7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536773"
+    },
+    {
+        "name": "French Polynesia",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/pf.png",
+        "capital": "Papeet\u0113",
+        "timezone": "UTC-10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/xgg6BQTRyeQg4e1m6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/3412620"
+    },
+    {
+        "name": "Saint Lucia",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/lc.png",
+        "capital": "Castries",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4HhJ2jkPdSL9BPRcA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/550728"
+    },
+    {
+        "name": "Panama",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/pa.png",
+        "capital": "Panama City",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/sEN7sKqeawa5oPNLA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287668"
+    },
+    {
+        "name": "Timor-Leste",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/tl.png",
+        "capital": "Dili",
+        "timezone": "UTC+09:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/sFqBC9zjgUXPR1iTA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/305142"
+    },
+    {
+        "name": "North Macedonia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/mk.png",
+        "capital": "Skopje",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/55Q8MEnF6ACdu3q79",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/53293"
+    },
+    {
+        "name": "Denmark",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/dk.png",
+        "capital": "Copenhagen",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/UddGPN7hAyrtpFiT6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/50046"
+    },
+    {
+        "name": "Egypt",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/eg.png",
+        "capital": "Cairo",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/uoDRhXbsqjG6L7VG7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1473947"
+    },
+    {
+        "name": "Estonia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ee.png",
+        "capital": "Tallinn",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/6SsynwGUodL1sDvq8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/79510"
+    },
+    {
+        "name": "Czechia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/cz.png",
+        "capital": "Prague",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/47dmgeXMZyhDHyQW8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/51684"
+    },
+    {
+        "name": "Bahamas",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bs.png",
+        "capital": "Nassau",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/1YzRs1BZrG8p8pmVA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/547469"
+    },
+    {
+        "name": "Uruguay",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/uy.png",
+        "capital": "Montevideo",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/tiQ9Baekb1jQtDSD9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287072"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ax.png",
+        "capital": "Mariehamn",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ewFb3vYsfUmVCoSb8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1650407"
+    },
+    {
+        "name": "Comoros",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/km.png",
+        "capital": "Moroni",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/eas4GP28C1GyStnu6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/535790"
+    },
+    {
+        "name": "Cook Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/ck.png",
+        "capital": "Avarua",
+        "timezone": "UTC-10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/nrGZrvWRGB4WHgDC9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2184233"
+    },
+    {
+        "name": "Costa Rica",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/cr.png",
+        "capital": "San Jos\u00e9",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/RFiwytjvNrpfKN7k6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287667"
+    },
+    {
+        "name": "Togo",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/tg.png",
+        "capital": "Lom\u00e9",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/jzAa9feXuXPrKVb89",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192782"
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/st.png",
+        "capital": "S\u00e3o Tom\u00e9",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/9EUppm13RtPX9oF46",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/535880"
+    },
+    {
+        "name": "Netherlands",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/nl.png",
+        "capital": "Amsterdam",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Hv6zQswGhFxoVVBm6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/47796"
+    },
+    {
+        "name": "Hong Kong",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/hk.png",
+        "capital": "City of Victoria",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/1sEnNmT47ffrC8MU8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/913110"
+    },
+    {
+        "name": "Australia",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/au.png",
+        "capital": "Canberra",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DcjaDa7UbhnZTndH6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/80500"
+    },
+    {
+        "name": "Malaysia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/my.png",
+        "capital": "Kuala Lumpur",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/qrY1PNeUXGyXDcPy6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2108121"
+    },
+    {
+        "name": "Nepal",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/np.png",
+        "capital": "Kathmandu",
+        "timezone": "UTC+05:45",
+        "googlemap": "https:\/\/goo.gl\/maps\/UMj2zpbQp7B5c3yT7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184633"
+    },
+    {
+        "name": "Cuba",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/cu.png",
+        "capital": "Havana",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/1dDw1QfZspfMUTm99",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307833"
+    },
+    {
+        "name": "North Korea",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kp.png",
+        "capital": "Pyongyang",
+        "timezone": "UTC+09:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9q5T2DMeH5JL7Tky6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192734"
+    },
+    {
+        "name": "French Guiana",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gf.png",
+        "capital": "Cayenne",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NJawFwMzG7YtCrVP7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2502058"
+    },
+    {
+        "name": "Moldova",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/md.png",
+        "capital": "Chi\u0219in\u0103u",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JjmyUuULujnDeFPf7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/58974"
+    },
+    {
+        "name": "Zambia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/zm.png",
+        "capital": "Lusaka",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/mweBcqvW8TppZW6q9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195271"
+    },
+    {
+        "name": "Dominica",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/dm.png",
+        "capital": "Roseau",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/HSKdHYpFC8oHHuyV7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307823"
+    },
+    {
+        "name": "Marshall Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/mh.png",
+        "capital": "Majuro",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/A4xLi1XvcX88gi3W8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571771"
+    },
+    {
+        "name": "Tonga",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/to.png",
+        "capital": "Nuku'alofa",
+        "timezone": "UTC+13:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/p5YALBY2QdEzswRo7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2186665"
+    },
+    {
+        "name": "Peru",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/pe.png",
+        "capital": "Lima",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/uDWEUaXNcZTng1fP6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/288247"
+    },
+    {
+        "name": "Cape Verde",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/cv.png",
+        "capital": "Praia",
+        "timezone": "UTC-01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Kc9vy5ChjuiAgMfXA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/535774"
+    },
+    {
+        "name": "Kiribati",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/ki.png",
+        "capital": "South Tarawa",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NBfYvrndW4skAimw9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571178"
+    },
+    {
+        "name": "Finland",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/fi.png",
+        "capital": "Helsinki",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/HjgWDCNKRAYHrkMn8",
+        "openstreet": "openstreetmap.org\/relation\/54224"
+    },
+    {
+        "name": "Ivory Coast",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ci.png",
+        "capital": "Yamoussoukro",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/wKsmN7f5qAeNtGjP6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192779"
+    },
+    {
+        "name": "Martinique",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/mq.png",
+        "capital": "Fort-de-France",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/87ER7sDAFU7JjcvR6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2473088"
+    },
+    {
+        "name": "Pakistan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/pk.png",
+        "capital": "Islamabad",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/5LYujdfR5yLUXoERA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307573"
+    },
+    {
+        "name": "Djibouti",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/dj.png",
+        "capital": "Djibouti",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/V1HWfzN3bS1kwf4C6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192801"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/tc.png",
+        "capital": "Cockburn Town",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/R8VUDQfwZiFtvmyn8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/547479"
+    },
+    {
+        "name": "Micronesia",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/fm.png",
+        "capital": "Palikir",
+        "timezone": "UTC+10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/LLcnofC5LxZsJXTo8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571802"
+    },
+    {
+        "name": "Slovenia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/si.png",
+        "capital": "Ljubljana",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/7zgFmswcCJh5L5D49",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/218657"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kg.png",
+        "capital": "Bishkek",
+        "timezone": "UTC+06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/SKG8BSMMQVvxkRkB7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/178009"
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bq.png",
+        "capital": "Kralendijk",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4XVes1P6uEDTz77WA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1216720"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "region": "Antarctic",
+        "flag": "https:\/\/flagcdn.com\/w320\/tf.png",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/6ua6CX1m4w1xF2Em7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2186658"
+    },
+    {
+        "name": "Saint Barth\u00e9lemy",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bl.png",
+        "capital": "Gustavia",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Mc7GqH466S7AAk297",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/7552779"
+    },
+    {
+        "name": "Switzerland",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ch.png",
+        "capital": "Bern",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/uVuZcXaxSx5jLyEC9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/51701"
+    },
+    {
+        "name": "Kuwait",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kw.png",
+        "capital": "Kuwait City",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/aqr3aNQjS1BAvksJ7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/305099"
+    },
+    {
+        "name": "Seychelles",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sc.png",
+        "capital": "Victoria",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/aqCcy2TKh5TV5MAX8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536765"
+    },
+    {
+        "name": "United Kingdom",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/gb.png",
+        "capital": "London",
+        "timezone": "UTC-08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/FoDtc3UKMkFsXAjHA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/62149"
+    },
+    {
+        "name": "United States Virgin Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/vi.png",
+        "capital": "Charlotte Amalie",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/mBfreywj8dor6q4m9",
+        "openstreet": "openstreetmap.org\/relation\/286898"
+    },
+    {
+        "name": "Fiji",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/fj.png",
+        "capital": "Suva",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/r9fhDqoLZdg1zmE99",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571747"
+    },
+    {
+        "name": "Yemen",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ye.png",
+        "capital": "Sana'a",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/WCmE76HKcLideQQw7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/305092"
+    },
+    {
+        "name": "British Virgin Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/vg.png",
+        "capital": "Road Town",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/49C9cSesNVAR9DQk8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/285454"
+    },
+    {
+        "name": "Bouvet Island",
+        "region": "Antarctic",
+        "flag": "https:\/\/flagcdn.com\/w320\/bv.png",
+        "capital": "",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/7WRQAEKZb4uK36yi9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/way\/174996681"
+    },
+    {
+        "name": "Central African Republic",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/cf.png",
+        "capital": "Bangui",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/51V8dsi2rGYC9n3c9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192790"
+    },
+    {
+        "name": "Belgium",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/be.png",
+        "capital": "Brussels",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/UQQzat85TCtPRXAL8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/52411"
+    },
+    {
+        "name": "Cura\u00e7ao",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/cw.png",
+        "capital": "Willemstad",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9D3hTeA3qKaRT7S16",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1216719"
+    },
+    {
+        "name": "Argentina",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ar.png",
+        "capital": "Buenos Aires",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Z9DXNxhf2o93kvyc6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/286393"
+    },
+    {
+        "name": "Madagascar",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/mg.png",
+        "capital": "Antananarivo",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/AHQh2ABBaFW6Ngj26",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/447325"
+    },
+    {
+        "name": "South Africa",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/za.png",
+        "capital": "Pretoria",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CLCZ1R8Uz1KpYhRv6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/87565"
+    },
+    {
+        "name": "Latvia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/lv.png",
+        "capital": "Riga",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/iQpUkH7ghq31ZtXe9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/72594"
+    },
+    {
+        "name": "Zimbabwe",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/zw.png",
+        "capital": "Harare",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/M26BqdwQctqxXS65A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195272"
+    },
+    {
+        "name": "Antarctica",
+        "region": "Antarctic",
+        "flag": "https:\/\/flagcdn.com\/w320\/aq.png",
+        "capital": "",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/kyBuJriu4itiXank7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/node\/36966060"
+    },
+    {
+        "name": "Guernsey",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/gg.png",
+        "capital": "St. Peter Port",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/6kXnQU5QvEZMD9VB7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/270009"
+    },
+    {
+        "name": "Gabon",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ga.png",
+        "capital": "Libreville",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/vyRSkqw1H1fnq4ry6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192793"
+    },
+    {
+        "name": "Romania",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ro.png",
+        "capital": "Bucharest",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/845hAgCf1mDkN3vr7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/90689"
+    },
+    {
+        "name": "Germany",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/de.png",
+        "capital": "Berlin",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/mD9FBMq1nvXUBrkv6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/51477"
+    },
+    {
+        "name": "Bangladesh",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/bd.png",
+        "capital": "Dhaka",
+        "timezone": "UTC+06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/op6gmLbHcvv6rLhH6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184640"
+    },
+    {
+        "name": "Montserrat",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ms.png",
+        "capital": "Plymouth",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CSbe7UmxPmiwQB7GA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/537257"
+    },
+    {
+        "name": "Jordan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/jo.png",
+        "capital": "Amman",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ko1dzSDKg8Gsi9A98",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184818"
+    },
+    {
+        "name": "Mozambique",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/mz.png",
+        "capital": "Maputo",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/xCLcY9fzU6x4Pueu5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195273"
+    },
+    {
+        "name": "Israel",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/il.png",
+        "capital": "Jerusalem",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/6UY1AH8XeafVwdC97",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1473946"
+    },
+    {
+        "name": "Eritrea",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/er.png",
+        "capital": "Asmara",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/HRyqUpnPwwG6jY5j6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/296961"
+    },
+    {
+        "name": "Indonesia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/id.png",
+        "capital": "Jakarta",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9gfPupm5bffixiFJ6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/21335"
+    },
+    {
+        "name": "Isle of Man",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/im.png",
+        "capital": "Douglas",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4DqVHDgVaFgnh8ZV8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/62269"
+    },
+    {
+        "name": "Japan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/jp.png",
+        "capital": "Tokyo",
+        "timezone": "UTC+09:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NGTLSCSrA8bMrvnX9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/382313"
+    },
+    {
+        "name": "Spain",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/es.png",
+        "capital": "Madrid",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/138JaXW8EZzRVitY9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1311341"
+    },
+    {
+        "name": "Afghanistan",
+        "region": "Asia",
+        "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_the_Taliban.svg\/320px-Flag_of_the_Taliban.svg.png",
+        "capital": "Kabul",
+        "timezone": "UTC+04:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/BXBGw7yUUFknCfva9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/303427"
+    },
+    {
+        "name": "United Arab Emirates",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ae.png",
+        "capital": "Abu Dhabi",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/AZZTDA6GzVAnKMVd8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307763"
+    },
+    {
+        "name": "Malawi",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/mw.png",
+        "capital": "Lilongwe",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/mc6z83pW9m98X2Ef6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195290"
+    },
+    {
+        "name": "Turkey",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/tr.png",
+        "capital": "Ankara",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/dXFFraiUDfcB6Quk6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/174737"
+    },
+    {
+        "name": "Belarus",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/by.png",
+        "capital": "Minsk",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/PJUDU3EBPSszCQcu6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/59065"
+    },
+    {
+        "name": "Montenegro",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/me.png",
+        "capital": "Podgorica",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4THX1fM7WqANuPbB8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/53296"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ba.png",
+        "capital": "Sarajevo",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/www.google.com\/maps\/place\/Bosnia+and+Herzegovina",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2528142"
+    },
+    {
+        "name": "Eswatini",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sz.png",
+        "capital": "Mbabane",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/cUY79eqQihFSE8hV6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/88210"
+    },
+    {
+        "name": "Lithuania",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/lt.png",
+        "capital": "Vilnius",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/dd1s9rrLjrK2G8yY6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/72596"
+    },
+    {
+        "name": "Turkmenistan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/tm.png",
+        "capital": "Ashgabat",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/cgfUcaQHSWKuqeKk9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/223026"
+    },
+    {
+        "name": "Ethiopia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/et.png",
+        "capital": "Addis Ababa",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/2Q4hQWCbhuZLj3fG6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192800"
+    },
+    {
+        "name": "Anguilla",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ai.png",
+        "capital": "The Valley",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/3KgLnEyN7amdno2p9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2177161"
+    },
+    {
+        "name": "Hungary",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/hu.png",
+        "capital": "Budapest",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9gfPupm5bffixiFJ6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/21335"
+    },
+    {
+        "name": "American Samoa",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/as.png",
+        "capital": "Pago Pago",
+        "timezone": "UTC-11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Re9ePMjwP1sFCBFA6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2177187"
+    },
+    {
+        "name": "Chad",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/td.png",
+        "capital": "N'Djamena",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ziUdAZ8skuNfx5Hx7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2361304"
+    },
+    {
+        "name": "Guadeloupe",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gp.png",
+        "capital": "Basse-Terre",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Dy9R2EufJtoWm8UN9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/7109289"
+    },
+    {
+        "name": "Nigeria",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ng.png",
+        "capital": "Abuja",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/LTn417qWwBPFszuV9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192787"
+    },
+    {
+        "name": "San Marino",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/sm.png",
+        "capital": "City of San Marino",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/rxCVJjm8dVY93RPY8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/54624"
+    },
+    {
+        "name": "Ukraine",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ua.png",
+        "capital": "Kyiv",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DvgJMiPJ7aozKFZv7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/60199"
+    },
+    {
+        "name": "Haiti",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ht.png",
+        "capital": "Port-au-Prince",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9o13xtjuUdqFnHbn9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307829"
+    },
+    {
+        "name": "Botswana",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/bw.png",
+        "capital": "Gaborone",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/E364KeLy6N4JwxwQ8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1889339"
+    },
+    {
+        "name": "Portugal",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/pt.png",
+        "capital": "Lisbon",
+        "timezone": "UTC-01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/BaTBSyc4GWMmbAKB8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/295480"
+    },
+    {
+        "name": "Guyana",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gy.png",
+        "capital": "Georgetown",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DFsme2xEeugUAsCx5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287083"
+    },
+    {
+        "name": "Ireland",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ie.png",
+        "capital": "Dublin",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/hxd1BKxgpchStzQC6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/62273"
+    },
+    {
+        "name": "New Caledonia",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/nc.png",
+        "capital": "Noum\u00e9a",
+        "timezone": "UTC+11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/cBhtCeMdob4U7FRU9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/3407643"
+    },
+    {
+        "name": "Saint Martin",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/mf.png",
+        "capital": "Marigot",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/P9ho9QuJ9EAR28JEA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/63064"
+    },
+    {
+        "name": "Mauritius",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/mu.png",
+        "capital": "Port Louis",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/PpKtZ4W3tir5iGrz7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/535828"
+    },
+    {
+        "name": "Gibraltar",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/gi.png",
+        "capital": "Gibraltar",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CEoHAs1t6byCBhHFA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1278736"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/kn.png",
+        "capital": "Basseterre",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/qiaVwcLVTXX3eoTNA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536899"
+    },
+    {
+        "name": "Iceland",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/is.png",
+        "capital": "Reykjavik",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/WxFWSQuc3oamNxoE6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/299133"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/sj.png",
+        "capital": "Longyearbyen",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/L2wyyn3cQ16PzQ5J8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1337397"
+    },
+    {
+        "name": "Chile",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/cl.png",
+        "capital": "Santiago",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/XboxyNHh2fAjCPNn9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/167454"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/um.png",
+        "capital": "Washington DC",
+        "timezone": "UTC-11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/hZKnrzgeK69dDyPF8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/6430384"
+    },
+    {
+        "name": "Kazakhstan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kz.png",
+        "capital": "Nur-Sultan",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/8VohJGu7ShuzZYyeA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/214665"
+    },
+    {
+        "name": "China",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/cn.png",
+        "capital": "Beijing",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/p9qC6vgiFRRXzvGi7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/270056"
+    },
+    {
+        "name": "Macau",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/mo.png",
+        "capital": "",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/whymRdk3dZFfAAs4A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1867188"
+    },
+    {
+        "name": "Armenia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/am.png",
+        "capital": "Yerevan",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/azWUtK9bUQYEyccbA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/364066"
+    },
+    {
+        "name": "Bolivia",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bo.png",
+        "capital": "Sucre",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/9DfnyfbxNM2g5U9b9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/252645"
+    },
+    {
+        "name": "Sudan",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sd.png",
+        "capital": "Khartoum",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/bNW7YUJCaqR8zcXn7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192789"
+    },
+    {
+        "name": "Vietnam",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/vn.png",
+        "capital": "Hanoi",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/PCpVt9WzdJ9A9nEZ9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/49915"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/wf.png",
+        "capital": "Mata-Utu",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CzVqK74QYtbHv65r5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/3412448"
+    },
+    {
+        "name": "Burundi",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/bi.png",
+        "capital": "Gitega",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/RXPWoRrB9tfrJpUG7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195269"
+    },
+    {
+        "name": "Canada",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ca.png",
+        "capital": "Ottawa",
+        "timezone": "UTC-08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/jmEVLugreeqiZXxbA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1428125"
+    },
+    {
+        "name": "Colombia",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/co.png",
+        "capital": "Bogot\u00e1",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/RdwTG8e7gPwS62oR6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/120027"
+    },
+    {
+        "name": "Lesotho",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ls.png",
+        "capital": "Maseru",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/H8gJi5mL4Cmd1SF28",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2093234"
+    },
+    {
+        "name": "Bermuda",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bm.png",
+        "capital": "Hamilton",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NLsRGNjTzDghTtAJA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1993208"
+    },
+    {
+        "name": "Guatemala",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gt.png",
+        "capital": "Guatemala City",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JoRAbem4Hxb9FYbVA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1521463"
+    },
+    {
+        "name": "Uzbekistan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/uz.png",
+        "capital": "Tashkent",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/AJpo6MjMx23qSWCz8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/196240"
+    },
+    {
+        "name": "Cayman Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ky.png",
+        "capital": "George Town",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/P3ZVXX3LH63t91hL8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/7269765"
+    },
+    {
+        "name": "Senegal",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sn.png",
+        "capital": "Dakar",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/o5f1uD5nyihCL3HCA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192775"
+    },
+    {
+        "name": "Gambia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/gm.png",
+        "capital": "Banjul",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/bbGBCxxtfD2A9Z4m6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192774"
+    },
+    {
+        "name": "Liechtenstein",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/li.png",
+        "capital": "Vaduz",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/KNuHeiJzAPodwM7y6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1155955"
+    },
+    {
+        "name": "Pitcairn Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/pn.png",
+        "capital": "Adamstown",
+        "timezone": "UTC-08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/XGJMnMAigXjXcxSa7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2185375"
+    },
+    {
+        "name": "Tuvalu",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/tv.png",
+        "capital": "Funafuti",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/LbuUxtkgm1dfN1Pn6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2177266"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/gq.png",
+        "capital": "Malabo",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ucWfFd8aW1FbGMva9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192791"
+    },
+    {
+        "name": "Bhutan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/bt.png",
+        "capital": "Thimphu",
+        "timezone": "UTC+06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/VEfXXBftTFLUpNgp8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184629"
+    },
+    {
+        "name": "Aruba",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/aw.png",
+        "capital": "Oranjestad",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/8hopbQqifHAgyZyg8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1231749"
+    },
+    {
+        "name": "Paraguay",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/py.png",
+        "capital": "Asunci\u00f3n",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JtnqG73WJn1Gx6mz6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287077"
+    },
+    {
+        "name": "Grenada",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gd.png",
+        "capital": "St. George's",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/rqWyfUAt4xhvk1Zy9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/550727"
+    },
+    {
+        "name": "Papua New Guinea",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/pg.png",
+        "capital": "Port Moresby",
+        "timezone": "UTC+10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ChGmzZBjZ3vnBwR2A",
+        "openstreet": "https:\/\/goo.gl\/maps\/ChGmzZBjZ3vnBwR2A"
+    },
+    {
+        "name": "Jamaica",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/jm.png",
+        "capital": "Kingston",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Z8mQ6jxnRQKFwJy9A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/555017"
+    },
+    {
+        "name": "Republic of the Congo",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/cg.png",
+        "capital": "Brazzaville",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Phf5dDDKdfCtuBTb6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192794"
+    },
+    {
+        "name": "Poland",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/pl.png",
+        "capital": "Warsaw",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/gY9Xw4Sf4415P4949",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/49715"
+    },
+    {
+        "name": "Russia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/ru.png",
+        "capital": "Moscow",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4F4PpDhGJgVvLby57",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/60189#map=3\/65.15\/105.29"
+    },
+    {
+        "name": "Mauritania",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/mr.png",
+        "capital": "Nouakchott",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/im2MmQ5jFjzxWBks5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192763"
+    },
+    {
+        "name": "Western Sahara",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/eh.png",
+        "capital": "El Aai\u00fan",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/7nU3mB69vP6zQp7A8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/5441968"
+    },
+    {
+        "name": "Burkina Faso",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/bf.png",
+        "capital": "Ouagadougou",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/rKRmpcMbFher2ozb7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192783"
+    },
+    {
+        "name": "DR Congo",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/cd.png",
+        "capital": "Kinshasa",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/KfhNVn6VqdZXWu8n9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192795"
+    },
+    {
+        "name": "Benin",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/bj.png",
+        "capital": "Porto-Novo",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/uMw1BsHEXQYgVFFu6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192784"
+    },
+    {
+        "name": "Uganda",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ug.png",
+        "capital": "Kampala",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Y7812hFiGa8LD9N68",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192796"
+    },
+    {
+        "name": "Mongolia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/mn.png",
+        "capital": "Ulan Bator",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/A1X7bMCKThBDNjzH6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/161033"
+    },
+    {
+        "name": "Laos",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/la.png",
+        "capital": "Vientiane",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/F3asVB7sRKgSnwbE7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/49903"
+    },
+    {
+        "name": "Algeria",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/dz.png",
+        "capital": "Algiers",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/RsAyAfyaiNVb8DpW8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192756"
+    },
+    {
+        "name": "Brunei",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/bn.png",
+        "capital": "Bandar Seri Begawan",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/4jb4CqBXhr8vNh579",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2103120"
+    },
+    {
+        "name": "Kenya",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ke.png",
+        "capital": "Nairobi",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Ni9M7wcCxf8bJHLX8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192798"
+    },
+    {
+        "name": "Sri Lanka",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/lk.png",
+        "capital": "Sri Jayawardenepura Kotte",
+        "timezone": "UTC+05:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/VkPHoeFSfgzRQCDv8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536807"
+    },
+    {
+        "name": "Dominican Republic",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/do.png",
+        "capital": "Santo Domingo",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/soxooTHxEeiAbn3UA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307828"
+    },
+    {
+        "name": "Austria",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/at.png",
+        "capital": "Vienna",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/pCWpWQhznHyRzQcu9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/16239"
+    },
+    {
+        "name": "Luxembourg",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/lu.png",
+        "capital": "Luxembourg",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/L6b2AgndgHprt2Ko9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2171347#map=10\/49.8167\/6.1335"
+    },
+    {
+        "name": "Georgia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ge.png",
+        "capital": "Tbilisi",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/bvCaGBePR1ZEDK5cA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/28699"
+    },
+    {
+        "name": "Slovakia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/sk.png",
+        "capital": "Bratislava",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/uNSH2wW4bLoZVYJj7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/14296"
+    },
+    {
+        "name": "Norway",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/no.png",
+        "capital": "Oslo",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/htWRrphA7vNgQNdSA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2978650"
+    },
+    {
+        "name": "Thailand",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/th.png",
+        "capital": "Bangkok",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/qeU6uqsfW4nCCwzw9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2067731"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/io.png",
+        "capital": "Diego Garcia",
+        "timezone": "UTC+06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/bheNucgekVEYozoi6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1993867"
+    },
+    {
+        "name": "India",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/in.png",
+        "capital": "New Delhi",
+        "timezone": "UTC+05:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/WSk3fLwG4vtPQetp7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/304716"
+    },
+    {
+        "name": "Morocco",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ma.png",
+        "capital": "Rabat",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/6oMv3dyBZg3iaXQ5A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/3630439"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/pm.png",
+        "capital": "Saint-Pierre",
+        "timezone": "UTC-03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/bUM8Yc8pA8ghyhmt6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/3406826"
+    },
+    {
+        "name": "Greenland",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/gl.png",
+        "capital": "Nuuk",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/j3289UPEQXt1ceSy8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2184073"
+    },
+    {
+        "name": "Nicaragua",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ni.png",
+        "capital": "Managua",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/P77LaEVkKJKXneRC6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287666"
+    },
+    {
+        "name": "Qatar",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/qa.png",
+        "capital": "Doha",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ZV76Y49z7LLUZ2KQ6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/305095"
+    },
+    {
+        "name": "Taiwan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/tw.png",
+        "capital": "Taipei",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/HgMKFQjNadF3Wa6B6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/449220"
+    },
+    {
+        "name": "Brazil",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/br.png",
+        "capital": "Bras\u00edlia",
+        "timezone": "UTC-05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/waCKk21HeeqFzkNC9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/59470"
+    },
+    {
+        "name": "New Zealand",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/nz.png",
+        "capital": "Wellington",
+        "timezone": "UTC-11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/xXiDQo65dwdpw9iu8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/556706#map=5\/-46.710\/172.046"
+    },
+    {
+        "name": "Singapore",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/sg.png",
+        "capital": "Singapore",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/QbQt9Y9b5KFzsahV6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536780"
+    },
+    {
+        "name": "Syria",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/sy.png",
+        "capital": "Damascus",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Xe3VnFbwdb4nv2SM9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184840"
+    },
+    {
+        "name": "Belize",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bz.png",
+        "capital": "Belmopan",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/jdCccpdLodm1uTmo9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287827"
+    },
+    {
+        "name": "Falkland Islands",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/fk.png",
+        "capital": "Stanley",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/TZH1x7AGanQKifNk7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2185374"
+    },
+    {
+        "name": "Venezuela",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ve.png",
+        "capital": "Caracas",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/KLCwDN8sec7z2kse9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/272644"
+    },
+    {
+        "name": "Bahrain",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/bh.png",
+        "capital": "Manama",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/5Zue99Zc6vFBHxzJ7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/378734"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/cc.png",
+        "capital": "West Island",
+        "timezone": "UTC+06:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/3eCdKVpVfMcZyKcK6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/82636"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/mp.png",
+        "capital": "Saipan",
+        "timezone": "UTC+10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/cpZ67knoRAcfu1417",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/306004"
+    },
+    {
+        "name": "Cameroon",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/cm.png",
+        "capital": "Yaound\u00e9",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JqiipHgFboG3rBJh9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192830"
+    },
+    {
+        "name": "Cyprus",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/cy.png",
+        "capital": "Nicosia",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/77hPBRdLid8yD5Bm7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307787"
+    },
+    {
+        "name": "United States",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/us.png",
+        "capital": "Washington, D.C.",
+        "timezone": "UTC-12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/e8M246zY4BSjkjAv6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/148838#map=2\/20.6\/-85.8"
+    },
+    {
+        "name": "Angola",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ao.png",
+        "capital": "Luanda",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/q42Qbf1BmQL3fuZg9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195267"
+    },
+    {
+        "name": "Tunisia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/tn.png",
+        "capital": "Tunis",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/KgUmpZdUuNRaougs8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192757"
+    },
+    {
+        "name": "Monaco",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/mc.png",
+        "capital": "Monaco",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DGpndDot28bYdXYn7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1124039"
+    },
+    {
+        "name": "Rwanda",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/rw.png",
+        "capital": "Kigali",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/j5xb5r7CLqjYbyP86",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/171496"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/tt.png",
+        "capital": "Port of Spain",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NrRfDEWoG8FGZqWY7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/555717"
+    },
+    {
+        "name": "Malta",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/mt.png",
+        "capital": "Valletta",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/skXCqguxDxxEKVk47",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/365307"
+    },
+    {
+        "name": "Mexico",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/mx.png",
+        "capital": "Mexico City",
+        "timezone": "UTC-08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/s5g7imNPMDEePxzbA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/114686"
+    },
+    {
+        "name": "Mayotte",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/yt.png",
+        "capital": "Mamoudzou",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/1e7MXmfBwQv3TQGF7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1259885"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ag.png",
+        "capital": "Saint John's",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/fnye4wGJ1RzC9jpX9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/536900"
+    },
+    {
+        "name": "Tokelau",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/tk.png",
+        "capital": "Fakaofo",
+        "timezone": "UTC+13:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Ap5qN8qien6pT9UN6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2186600"
+    },
+    {
+        "name": "South Korea",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kr.png",
+        "capital": "Seoul",
+        "timezone": "UTC+09:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/7ecjaJXefjAQhxjGA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307756"
+    },
+    {
+        "name": "Niger",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ne.png",
+        "capital": "Niamey",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/VKNU2TLsZcgxM49c8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192786"
+    },
+    {
+        "name": "Albania",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/al.png",
+        "capital": "Tirana",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/BzN9cTuj68ZA8SyZ8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/53292"
+    },
+    {
+        "name": "Somalia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/so.png",
+        "capital": "Mogadishu",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/8of8q7D1a8p7R6Fc9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192799"
+    },
+    {
+        "name": "Liberia",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/lr.png",
+        "capital": "Monrovia",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/4VsHsc2oeGeRL3wg6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192780"
+    },
+    {
+        "name": "Myanmar",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/mm.png",
+        "capital": "Naypyidaw",
+        "timezone": "UTC+06:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/4jrZyJkDERUfHyp26",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/50371"
+    },
+    {
+        "name": "Tanzania",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/tz.png",
+        "capital": "Dodoma",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/NWYMqZYXte4zGZ2Q8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/195270"
+    },
+    {
+        "name": "Iraq",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/iq.png",
+        "capital": "Baghdad",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/iL8Bmy1sUCW9fUk18",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/304934"
+    },
+    {
+        "name": "South Georgia",
+        "region": "Antarctic",
+        "flag": "https:\/\/flagcdn.com\/w320\/gs.png",
+        "capital": "King Edward Point",
+        "timezone": "UTC-02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/mJzdaBwKBbm2B81q9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1983629"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/vc.png",
+        "capital": "Kingstown",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/wMbnMqjG37FMnrwf7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/550725"
+    },
+    {
+        "name": "Libya",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ly.png",
+        "capital": "Tripoli",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/eLgGnaQWcJEdYRMy5",
+        "openstreet": "openstreetmap.org\/relation\/192758"
+    },
+    {
+        "name": "Sierra Leone",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sl.png",
+        "capital": "Freetown",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/jhacar85oq9QaeKB7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192777"
+    },
+    {
+        "name": "Sint Maarten",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/sx.png",
+        "capital": "Philipsburg",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DjvcESy1a1oGEZuNA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1231790"
+    },
+    {
+        "name": "Serbia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/rs.png",
+        "capital": "Belgrade",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/2Aqof7aV2Naq8YEK8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1741311"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "region": "Antarctic",
+        "flag": "https:\/\/flagcdn.com\/w320\/hm.png",
+        "capital": "",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/k5FBAiVaVyozuYeA7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2177227"
+    },
+    {
+        "name": "Ghana",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/gh.png",
+        "capital": "Accra",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/Avy5RSmdsXFBaiXq8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192781"
+    },
+    {
+        "name": "South Sudan",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ss.png",
+        "capital": "Juba",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Zm1AYCXb9HSNF1P27",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1656678"
+    },
+    {
+        "name": "Sweden",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/se.png",
+        "capital": "Stockholm",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/iqygE491ADVgnBW39",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/52822"
+    },
+    {
+        "name": "Greece",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/gr.png",
+        "capital": "Athens",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/LHGcAvuRyD2iKECC6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192307"
+    },
+    {
+        "name": "Faroe Islands",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/fo.png",
+        "capital": "T\u00f3rshavn",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/6sTru4SmHdEVcNkM6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/52939"
+    },
+    {
+        "name": "Philippines",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ph.png",
+        "capital": "Manila",
+        "timezone": "UTC+08:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/k8T2fb5VMUfsWFX6A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/443174"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/gw.png",
+        "capital": "Bissau",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/5Wyaz17miUc1zLc67",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192776"
+    },
+    {
+        "name": "Saudi Arabia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/sa.png",
+        "capital": "Riyadh",
+        "timezone": "UTC+03:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/5PSjvdJ1AyaLFRrG9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/307584"
+    },
+    {
+        "name": "Palau",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/pw.png",
+        "capital": "Ngerulmud",
+        "timezone": "UTC+09:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/MVasQBbUkQP7qQDR9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571805"
+    },
+    {
+        "name": "Bulgaria",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/bg.png",
+        "capital": "Sofia",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/F5uAhDGWzc3BrHfm9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/186382"
+    },
+    {
+        "name": "Nauru",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/nr.png",
+        "capital": "Yaren",
+        "timezone": "UTC+12:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/kyAGw6XEJgjSMsTK7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/571804"
+    },
+    {
+        "name": "Cambodia",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/kh.png",
+        "capital": "Phnom Penh",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/nztQtFSrUXZymJaW8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/49898"
+    },
+    {
+        "name": "Jersey",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/je.png",
+        "capital": "Saint Helier",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/rXG8GZZtsqK92kTCA",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/367988"
+    },
+    {
+        "name": "Palestine",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ps.png",
+        "capital": "Ramallah",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/QvTbkRdmdWEoYAmt5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1703814"
+    },
+    {
+        "name": "Italy",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/it.png",
+        "capital": "Rome",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/8M1K27TDj7StTRTq8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/365331"
+    },
+    {
+        "name": "Mali",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ml.png",
+        "capital": "Bamako",
+        "timezone": "UTC",
+        "googlemap": "https:\/\/goo.gl\/maps\/u9mYJkCB19wyuzh27",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/192785"
+    },
+    {
+        "name": "Iran",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/ir.png",
+        "capital": "Tehran",
+        "timezone": "UTC+03:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/dMgEGuacBPGYQnjY7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/304938"
+    },
+    {
+        "name": "Niue",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/nu.png",
+        "capital": "Alofi",
+        "timezone": "UTC-11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/xFgdzs3E55Rk1y8P9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1558556"
+    },
+    {
+        "name": "Tajikistan",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/tj.png",
+        "capital": "Dushanbe",
+        "timezone": "UTC+05:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/8rQgW88jEXijhVb58",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/214626"
+    },
+    {
+        "name": "Kosovo",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/xk.png",
+        "capital": "Pristina",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/CSC4Yc8SWPgburuD9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2088990"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "Africa",
+        "flag": "https:\/\/flagcdn.com\/w320\/sh.png",
+        "capital": "Jamestown",
+        "timezone": "UTC+00:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/iv4VxnPzHkjLCJuc6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/4868269#map=13\/-15.9657\/-5.7120"
+    },
+    {
+        "name": "Norfolk Island",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/nf.png",
+        "capital": "Kingston",
+        "timezone": "UTC+11:30",
+        "googlemap": "https:\/\/goo.gl\/maps\/pbvtm6XYd1iZbjky5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/2574988"
+    },
+    {
+        "name": "Oman",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/om.png",
+        "capital": "Muscat",
+        "timezone": "UTC+04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/L2BoXoAwDDwWecnw5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/305138"
+    },
+    {
+        "name": "El Salvador",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/sv.png",
+        "capital": "San Salvador",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/cZnCEi5sEMQtKKcB7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1520612"
+    },
+    {
+        "name": "Lebanon",
+        "region": "Asia",
+        "flag": "https:\/\/flagcdn.com\/w320\/lb.png",
+        "capital": "Beirut",
+        "timezone": "UTC+02:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Sz5VCU8UFBqMyTdc9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/184843"
+    },
+    {
+        "name": "Vatican City",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/va.png",
+        "capital": "Vatican City",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/DTKvw5Bd1QZaDZmE8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/36989"
+    },
+    {
+        "name": "Ecuador",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/ec.png",
+        "capital": "Quito",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/TbX8hUW4gcbRPZiK7",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/108089"
+    },
+    {
+        "name": "Guam",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/gu.png",
+        "capital": "Hag\u00e5t\u00f1a",
+        "timezone": "UTC+10:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/Xfnq2i279b18cH3C9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/306001"
+    },
+    {
+        "name": "Croatia",
+        "region": "Europe",
+        "flag": "https:\/\/flagcdn.com\/w320\/hr.png",
+        "capital": "Zagreb",
+        "timezone": "UTC+01:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/qSG6xTKUmrYpwmGQ6",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/214885"
+    },
+    {
+        "name": "Solomon Islands",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/sb.png",
+        "capital": "Honiara",
+        "timezone": "UTC+11:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/JbPkx86Ywjv8C1n8A",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/1857436"
+    },
+    {
+        "name": "Honduras",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/hn.png",
+        "capital": "Tegucigalpa",
+        "timezone": "UTC-06:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/BbeJK8Sk2VkMHbdF8",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/287670"
+    },
+    {
+        "name": "Christmas Island",
+        "region": "Oceania",
+        "flag": "https:\/\/flagcdn.com\/w320\/cx.png",
+        "capital": "Flying Fish Cove",
+        "timezone": "UTC+07:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/ZC17hHsQZpShN5wk9",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/6365444"
+    },
+    {
+        "name": "Puerto Rico",
+        "region": "Americas",
+        "flag": "https:\/\/flagcdn.com\/w320\/pr.png",
+        "capital": "San Juan",
+        "timezone": "UTC-04:00",
+        "googlemap": "https:\/\/goo.gl\/maps\/sygfDbtwn389wu8x5",
+        "openstreet": "https:\/\/www.openstreetmap.org\/relation\/4422604"
+    }
+]
